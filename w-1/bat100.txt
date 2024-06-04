@@ -1,0 +1,447 @@
+  0%|          | 0/100 [00:00<?, ?it/s]
+Image upload response: {"status":"OK","result":""}
+20 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-05-07'}, {'name': 'photo_time', 'value': '12:00 pm'}, {'name': 'image1', 'value': ['8590dbb0-77e6-4f3f-9f9e-6eaf932f5d7b']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Lawns/vegetation']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8379818807091}, {'name': 'location_latitude', 'value': 40.6578929726175}, {'name': 'alternate-location-name', 'value': ''}]
+  1%|          | 1/100 [00:07<12:47,  7.75s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+21 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-05-07'}, {'name': 'photo_time', 'value': '12:00 pm'}, {'name': 'image1', 'value': ['5e17b016-1ffc-46f1-bf02-d6a0966870a8']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'tide water coming to the street from storm drain that has duckbill'}, {'name': 'location_longitude', 'value': -73.8378424058402}, {'name': 'location_latitude', 'value': 40.6577546088202}, {'name': 'alternate-location-name', 'value': ''}]
+  2%|▏         | 2/100 [00:13<10:29,  6.42s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+22 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-05-07'}, {'name': 'photo_time', 'value': '12:30 am'}, {'name': 'image1', 'value': ['7d3752e4-87cb-438e-b5c9-ebf9ddf8ab44']}, {'name': 'guessCause', 'value': ['Storm drain (Water pooling near a storm drain)']}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8294438094657}, {'name': 'location_latitude', 'value': 40.65345597294}, {'name': 'alternate-location-name', 'value': 'Hamilton Beach'}]
+  3%|▎         | 3/100 [00:21<12:03,  7.45s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+23 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-05-07'}, {'name': 'photo_time', 'value': '12:39 am'}, {'name': 'image1', 'value': ['46c2552d-dc57-4809-866f-8318eed316b3']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': '6th road facing crossbay blvd'}, {'name': 'location_longitude', 'value': -73.8171040999988}, {'name': 'location_latitude', 'value': 40.6090230999993}, {'name': 'alternate-location-name', 'value': ''}]
+  4%|▍         | 4/100 [00:28<11:20,  7.09s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+24 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-05-07'}, {'name': 'photo_time', 'value': '12:30 am'}, {'name': 'image1', 'value': ['3fee52c6-3344-45e9-bf46-f5c505088933']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8295335159477}, {'name': 'location_latitude', 'value': 40.6534996859846}, {'name': 'alternate-location-name', 'value': ''}]
+  5%|▌         | 5/100 [00:31<08:50,  5.59s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+25 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-05-07'}, {'name': 'photo_time', 'value': '12:41 am'}, {'name': 'image1', 'value': ['59ca0a79-4914-4383-802b-29fc48135bdb']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'Overland flood current coming from the basin north of 6th rd'}, {'name': 'location_longitude', 'value': -73.8174146999987}, {'name': 'location_latitude', 'value': 40.6090133999993}, {'name': 'alternate-location-name', 'value': ''}]
+  6%|▌         | 6/100 [00:37<09:01,  5.76s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+26 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-05-07'}, {'name': 'photo_time', 'value': '12:49 am'}, {'name': 'image1', 'value': ['50390840-c82f-4db3-b7df-4ea631f3dcbb']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8177030999988}, {'name': 'location_latitude', 'value': 40.6090805999993}, {'name': 'alternate-location-name', 'value': ''}]
+  7%|▋         | 7/100 [00:41<08:16,  5.34s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+27 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-05-07'}, {'name': 'photo_time', 'value': '12:52 am'}, {'name': 'image1', 'value': ['d79728b2-cf06-4516-afd4-2e657ff8872f']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'Church road flooded all the way past 7th rd'}, {'name': 'location_longitude', 'value': -73.8179861999988}, {'name': 'location_latitude', 'value': 40.6090884999993}, {'name': 'alternate-location-name', 'value': ''}]
+  8%|▊         | 8/100 [00:47<08:20,  5.44s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+28 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-05-07'}, {'name': 'photo_time', 'value': '12:55 am'}, {'name': 'image1', 'value': ['98795955-afd0-496d-bbf9-a85d44517f8d']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'Overland and storm drain. 19 inches at this map location'}, {'name': 'location_longitude', 'value': -73.8183699999988}, {'name': 'location_latitude', 'value': 40.6093726999993}, {'name': 'alternate-location-name', 'value': ''}]
+  9%|▉         | 9/100 [00:54<08:56,  5.90s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+29 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-05-07'}, {'name': 'photo_time', 'value': '12:59 am'}, {'name': 'image1', 'value': ['529a60a5-158f-463a-9116-4a913c1f3287']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'Facing crossbay boulevard on 6th road. Overland and storm drain'}, {'name': 'location_longitude', 'value': -73.8371503959156}, {'name': 'location_latitude', 'value': 40.649114442208}, {'name': 'alternate-location-name', 'value': ''}]
+ 10%|█         | 10/100 [01:02<09:48,  6.54s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+30 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-05-07'}, {'name': 'photo_time', 'value': '1:00 am'}, {'name': 'image1', 'value': ['0e9aab15-0c18-47af-ae5f-c67ede5c151b']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'Overland and storm drain runoff from 6th road'}, {'name': 'location_longitude', 'value': -73.8191480999988}, {'name': 'location_latitude', 'value': 40.6086976999993}, {'name': 'alternate-location-name', 'value': ''}]
+ 11%|█         | 11/100 [01:11<10:44,  7.24s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+31 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-05-07'}, {'name': 'photo_time', 'value': '1:02 am'}, {'name': 'image1', 'value': ['71783a76-5e8f-47f5-95a6-9897b3f4456f']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'Overland and storm drain runoff from 6 road basin'}, {'name': 'location_longitude', 'value': -73.8182756303499}, {'name': 'location_latitude', 'value': 40.6084898528354}, {'name': 'alternate-location-name', 'value': ''}]
+ 12%|█▏        | 12/100 [01:17<10:06,  6.89s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+32 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-05-07'}, {'name': 'photo_time', 'value': '1:05 am'}, {'name': 'image1', 'value': ['9c21ed08-1bb2-45aa-bf10-ed1fdd353be3']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'Overland and storm drain runoff from 6th road'}, {'name': 'location_longitude', 'value': -73.8170494058561}, {'name': 'location_latitude', 'value': 40.6083848458861}, {'name': 'alternate-location-name', 'value': ''}]
+ 13%|█▎        | 13/100 [01:23<09:49,  6.78s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+33 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-05-07'}, {'name': 'photo_time', 'value': '1:07 am'}, {'name': 'image1', 'value': ['b3df8d67-b04f-4667-a928-99821a14393b']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'Towards 6th road, storm drain and overland runoff from 6th road'}, {'name': 'location_longitude', 'value': -73.8170287999988}, {'name': 'location_latitude', 'value': 40.6083897999993}, {'name': 'alternate-location-name', 'value': ''}]
+ 14%|█▍        | 14/100 [01:31<10:03,  7.02s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+34 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-05-07'}, {'name': 'photo_time', 'value': '1:09 am'}, {'name': 'image1', 'value': ['4d92bba9-2543-48b0-b27f-6b9c91fde2bf']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'Overland flooding, storm drain fill up. Picture taken facing crossbay boulevard from Walton road'}, {'name': 'location_longitude', 'value': -73.8167922999988}, {'name': 'location_latitude', 'value': 40.6088955999993}, {'name': 'alternate-location-name', 'value': ''}]
+ 15%|█▌        | 15/100 [01:37<09:28,  6.69s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+35 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-05-07'}, {'name': 'photo_time', 'value': '1:22 am'}, {'name': 'image1', 'value': ['4cb71be4-f7e6-45a2-9fbb-f10662a74ce9']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'Overland flooding and storm drain fill up'}, {'name': 'location_longitude', 'value': -73.8170819999987}, {'name': 'location_latitude', 'value': 40.6090249999993}, {'name': 'alternate-location-name', 'value': ''}]
+ 16%|█▌        | 16/100 [01:43<08:54,  6.36s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+36 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-05-08'}, {'name': 'photo_time', 'value': '3:25 am'}, {'name': 'image1', 'value': ['68fab149-8f26-4023-a4cb-03f61987e0fc']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'This was taken 2 hours past high tide.'}, {'name': 'location_longitude', 'value': -73.8300300541326}, {'name': 'location_latitude', 'value': 40.6534249341247}, {'name': 'alternate-location-name', 'value': ''}]
+ 17%|█▋        | 17/100 [01:46<07:37,  5.52s/it]
+Form submission response: {"status":"OK","result":""}
+38 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-08-08'}, {'name': 'photo_time', 'value': '4:31 pm'}, {'name': 'image1', 'value': ['']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Sidewalks']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8414612427671}, {'name': 'location_latitude', 'value': 40.6501010167596}, {'name': 'alternate-location-name', 'value': ''}]
+ 18%|█▊        | 18/100 [01:47<05:43,  4.19s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+39 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-09-19'}, {'name': 'photo_time', 'value': '3:00 pm'}, {'name': 'image1', 'value': ['b60839b1-d431-4eea-96e3-6f02aa775bd8', 'ce16e4de-f07c-4126-a810-288c7e574ab3']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': 3.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7889032595735}, {'name': 'location_latitude', 'value': 40.5921469001554}, {'name': 'alternate-location-name', 'value': ''}]
+ 19%|█▉        | 19/100 [01:57<08:01,  5.94s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+40 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-09-23'}, {'name': 'photo_time', 'value': '4:59 pm'}, {'name': 'image1', 'value': ['37c9f9a5-96f0-4086-9eec-ac7c7770fe9c', '0c8b26a0-9cd9-44f3-ab7a-9103b4066d44']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': 5.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7699444444444}, {'name': 'location_latitude', 'value': 40.5965277777778}, {'name': 'alternate-location-name', 'value': ''}]
+ 20%|██        | 20/100 [02:13<12:00,  9.00s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+41 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-09-23'}, {'name': 'photo_time', 'value': '5:06 pm'}, {'name': 'image1', 'value': ['8de4f086-d6fd-4a63-b2e8-42d576f6dbb9', 'fd9eb0a1-39cc-47fe-a086-5baa37a67e01']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 4.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7693611111111}, {'name': 'location_latitude', 'value': 40.6053611111111}, {'name': 'alternate-location-name', 'value': ''}]
+ 21%|██        | 21/100 [02:27<13:37, 10.34s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+42 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-09-23'}, {'name': 'photo_time', 'value': '5:09 pm'}, {'name': 'image1', 'value': ['42c82acb-d115-4e84-b319-9409ecee18df', '0313672d-b838-4da7-a3ae-2aaf17094f07']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': 6.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7692222222222}, {'name': 'location_latitude', 'value': 40.6062222222222}, {'name': 'alternate-location-name', 'value': ''}]
+ 22%|██▏       | 22/100 [02:44<16:07, 12.41s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+43 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-09-23'}, {'name': 'photo_time', 'value': '5:12 pm'}, {'name': 'image1', 'value': ['e0412c9e-c967-40a1-8b1b-804a6e092d39']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': 2.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7695277777778}, {'name': 'location_latitude', 'value': 40.60625}, {'name': 'alternate-location-name', 'value': ''}]
+ 23%|██▎       | 23/100 [02:52<14:02, 10.94s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+44 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-09-23'}, {'name': 'photo_time', 'value': '5:14 pm'}, {'name': 'image1', 'value': ['e113996f-b256-4301-b541-37e4c433ba3a', '195e218f-0e4d-40a6-8f9e-c1c074340c88']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': 5.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7693888888889}, {'name': 'location_latitude', 'value': 40.6065}, {'name': 'alternate-location-name', 'value': ''}]
+ 24%|██▍       | 24/100 [03:06<15:21, 12.13s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+45 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-09-23'}, {'name': 'photo_time', 'value': '5:17 pm'}, {'name': 'image1', 'value': ['c4464804-1052-473b-b72e-f7847aa28897', '06cf4cf8-0444-4d10-ba27-62120a4a2e21']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 7.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7684447445356}, {'name': 'location_latitude', 'value': 40.6094822999698}, {'name': 'alternate-location-name', 'value': ''}]
+ 25%|██▌       | 25/100 [03:19<15:24, 12.33s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+46 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-09-23'}, {'name': 'photo_time', 'value': '5:38 pm'}, {'name': 'image1', 'value': ['4f91f75f-636f-4db5-ae3b-c4cf1f2cdbdd', '2bd92ee3-7cdd-46e3-8055-af1ddede1182']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks']}, {'name': 'guessDepth', 'value': 5.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7645049774945}, {'name': 'location_latitude', 'value': 40.595232304264}, {'name': 'alternate-location-name', 'value': ''}]
+ 26%|██▌       | 26/100 [03:35<16:33, 13.43s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+47 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-09-23'}, {'name': 'photo_time', 'value': '5:46 pm'}, {'name': 'image1', 'value': ['f5c64887-74b6-4c16-9ac0-172cd2ddd0a6', '079bcaec-b485-4673-a149-7e07528efa37']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 6.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7685001953453}, {'name': 'location_latitude', 'value': 40.5949617772329}, {'name': 'alternate-location-name', 'value': ''}]
+ 27%|██▋       | 27/100 [03:49<16:30, 13.56s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+48 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-09-23'}, {'name': 'photo_time', 'value': '5:70 pm'}, {'name': 'image1', 'value': ['1ff879b0-f245-4a1c-a09a-ab1df9f3788d']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Parking lots']}, {'name': 'guessDepth', 'value': 3.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7881388888889}, {'name': 'location_latitude', 'value': 40.5921388888889}, {'name': 'alternate-location-name', 'value': ''}]
+ 28%|██▊       | 28/100 [03:57<14:22, 11.97s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+49 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-10-12'}, {'name': 'photo_time', 'value': '9:30 pm'}, {'name': 'image1', 'value': ['9deab90a-b4fb-4529-9724-dcf088d5339d', 'c1e72acf-dbc7-4871-a861-03dbbd7ef139']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks']}, {'name': 'guessDepth', 'value': 5.0}, {'name': 'post_comment', 'value': 'this particular area has been flooding for years, causing sinkholes in the road.'}, {'name': 'location_longitude', 'value': -73.8142100497093}, {'name': 'location_latitude', 'value': 40.5875595690976}, {'name': 'alternate-location-name', 'value': ''}]
+ 29%|██▉       | 29/100 [04:08<13:38, 11.53s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+50 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-10-17'}, {'name': 'photo_time', 'value': '2:10 pm'}, {'name': 'image1', 'value': ['af9c0969-d690-4c1c-996e-662483ac4a69', '561c255d-df77-423e-a1f0-3d6f51d97d51']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 10.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8310916690011}, {'name': 'location_latitude', 'value': 40.6586999576255}, {'name': 'alternate-location-name', 'value': ''}]
+ 30%|███       | 30/100 [04:19<13:19, 11.42s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+51 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-10-18'}, {'name': 'photo_time', 'value': '2:10 pm'}, {'name': 'image1', 'value': ['39d62aa9-63e4-4ba4-b9c0-d2f7638bfdb8', '847589e6-6245-4fae-acf2-e02f27ae878d']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Parking lots', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 8.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8315727508593}, {'name': 'location_latitude', 'value': 40.6543636144493}, {'name': 'alternate-location-name', 'value': ''}]
+ 31%|███       | 31/100 [04:29<12:45, 11.10s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+53 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-08-14'}, {'name': 'photo_time', 'value': '1:00 pm'}, {'name': 'image1', 'value': ['95c1c691-9e1c-42c5-937f-c4fd146bb62b', 'ece0ccda-0647-44cb-85f7-9cf35b027fd8']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7895283819132}, {'name': 'location_latitude', 'value': 40.8480257312285}, {'name': 'alternate-location-name', 'value': 'City Island '}]
+ 32%|███▏      | 32/100 [04:38<11:44, 10.37s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+54 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-08-31'}, {'name': 'photo_time', 'value': '9:10 am'}, {'name': 'image1', 'value': ['270ac604-4022-4c39-b0d9-4f91520c4e8d']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.9665349405103}, {'name': 'location_latitude', 'value': 40.6473300469328}, {'name': 'alternate-location-name', 'value': ''}]
+ 33%|███▎      | 33/100 [04:41<09:06,  8.16s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+55 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-10-30'}, {'name': 'photo_time', 'value': '8:30 am'}, {'name': 'image1', 'value': ['447d3073-72f8-4146-a868-00c169f13eaf', 'c71915d1-7edf-4552-8b1c-52e6a09f1bf5']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 12.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8314519793873}, {'name': 'location_latitude', 'value': 40.6588000108762}, {'name': 'alternate-location-name', 'value': ''}]
+ 34%|███▍      | 34/100 [04:53<10:08,  9.22s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+56 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-01'}, {'name': 'photo_time', 'value': '1:20 pm'}, {'name': 'image1', 'value': ['54d2df2f-8bde-436c-acf5-ba94aa1d1937']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': 4.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8016417}, {'name': 'location_latitude', 'value': 40.863975}, {'name': 'alternate-location-name', 'value': ''}]
+ 35%|███▌      | 35/100 [05:06<11:13, 10.36s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+57 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-01'}, {'name': 'photo_time', 'value': '12:51 pm'}, {'name': 'image1', 'value': ['af3e7626-d8ba-4f5b-8db4-464ef050b1d5']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Lawns/vegetation']}, {'name': 'guessDepth', 'value': 4.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7879806}, {'name': 'location_latitude', 'value': 40.8519083}, {'name': 'alternate-location-name', 'value': ''}]
+ 36%|███▌      | 36/100 [05:16<11:07, 10.43s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+58 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-01'}, {'name': 'photo_time', 'value': '12:48 pm'}, {'name': 'image1', 'value': ['9f0e461d-c021-479a-ade7-3e3be9691c5d']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': 4.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7869667}, {'name': 'location_latitude', 'value': 40.8504194}, {'name': 'alternate-location-name', 'value': ''}]
+ 37%|███▋      | 37/100 [05:24<09:59,  9.51s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+59 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-01'}, {'name': 'photo_time', 'value': '12:59 pm'}, {'name': 'image1', 'value': ['20a17d01-f716-4c54-86ad-f2d8d712134a']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Lawns/vegetation']}, {'name': 'guessDepth', 'value': 3.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7912556}, {'name': 'location_latitude', 'value': 40.856325}, {'name': 'alternate-location-name', 'value': ''}]
+ 38%|███▊      | 38/100 [05:31<09:00,  8.72s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+60 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-10-30'}, {'name': 'photo_time', 'value': '10:07 am'}, {'name': 'image1', 'value': ['24200657-3813-492f-bc69-1997f01982bf', '9fd59377-b42e-418d-88f6-2d33b4a44849']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': 4.0}, {'name': 'post_comment', 'value': 'High tide as 7:45 am but this appeared closer to 10:30, not corresponding with any increase in rainfall. '}, {'name': 'location_longitude', 'value': -74.006325}, {'name': 'location_latitude', 'value': 40.5806556}, {'name': 'alternate-location-name', 'value': ''}]
+ 39%|███▉      | 39/100 [05:42<09:44,  9.59s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+61 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-10-30'}, {'name': 'photo_time', 'value': '10:03 am'}, {'name': 'image1', 'value': ['e0bfe406-0eb3-40ce-a5c3-786337af3644', 'e2fbd0d8-f0f2-4d0f-b749-e54400180faf']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': 2.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -74.0020583}, {'name': 'location_latitude', 'value': 40.5810694}, {'name': 'alternate-location-name', 'value': ''}]
+ 40%|████      | 40/100 [05:56<10:52, 10.88s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+62 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-10-30'}, {'name': 'photo_time', 'value': '8:50 am'}, {'name': 'image1', 'value': ['b4f3ed0f-349c-4c10-bf46-ba8e97296155']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': 2.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -74.0018722}, {'name': 'location_latitude', 'value': 40.5761083}, {'name': 'alternate-location-name', 'value': ''}]
+ 41%|████      | 41/100 [06:04<09:57, 10.12s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+63 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-13'}, {'name': 'photo_time', 'value': '7:14 am'}, {'name': 'image1', 'value': ['d1a3529a-5aea-4c8e-a775-9d6272757dea']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 6.0}, {'name': 'post_comment', 'value': 'Water was much higher earlier. '}, {'name': 'location_longitude', 'value': -73.8523638854481}, {'name': 'location_latitude', 'value': 40.6616160719359}, {'name': 'alternate-location-name', 'value': ''}]
+ 42%|████▏     | 42/100 [06:14<09:40, 10.00s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+64 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-14'}, {'name': 'photo_time', 'value': '7:53 am'}, {'name': 'image1', 'value': ['55e93607-0ec2-4098-87e5-4c4ab53f3525', '8383c212-493d-43b9-bd07-272afcf104e6']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 6.0}, {'name': 'post_comment', 'value': 'High tide was at 7 and was much higher then photo. '}, {'name': 'location_longitude', 'value': -73.8523638854481}, {'name': 'location_latitude', 'value': 40.6616160719359}, {'name': 'alternate-location-name', 'value': ''}]
+ 43%|████▎     | 43/100 [06:27<10:22, 10.92s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+65 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-15'}, {'name': 'photo_time', 'value': '7:26 am'}, {'name': 'image1', 'value': ['48c56c55-df0e-41b9-8cf2-222270d966c0', 'ee909bb5-6436-42c1-891b-101cf107d93c']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks']}, {'name': 'guessDepth', 'value': 8.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8206521999988}, {'name': 'location_latitude', 'value': 40.6031777999993}, {'name': 'alternate-location-name', 'value': ''}]
+ 44%|████▍     | 44/100 [06:35<09:22, 10.05s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+66 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-15'}, {'name': 'photo_time', 'value': '7:41 am'}, {'name': 'image1', 'value': ['5f93cf3e-ebb5-4e45-a236-4074b5b85919', '67372573-e636-43fe-9e5e-c1135be55f5d']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 12.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8206612999987}, {'name': 'location_latitude', 'value': 40.6031798999993}, {'name': 'alternate-location-name', 'value': ''}]
+ 45%|████▌     | 45/100 [06:44<08:49,  9.62s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+67 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-15'}, {'name': 'photo_time', 'value': '7:44 am'}, {'name': 'image1', 'value': ['b9ce79fa-20f8-4748-8196-a2e872d1f208', '69591cd2-e93e-4d58-9fa8-3d8e15f838af']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks']}, {'name': 'guessDepth', 'value': 5.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8314293718963}, {'name': 'location_latitude', 'value': 40.6578787443566}, {'name': 'alternate-location-name', 'value': ''}]
+ 46%|████▌     | 46/100 [06:55<09:05, 10.10s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+68 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-15'}, {'name': 'photo_time', 'value': '8:01 am'}, {'name': 'image1', 'value': ['c1f1fcf7-49d5-44ed-a794-b49fe7f05148']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 18.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8206760999987}, {'name': 'location_latitude', 'value': 40.6031807999993}, {'name': 'alternate-location-name', 'value': ''}]
+ 47%|████▋     | 47/100 [07:04<08:31,  9.66s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+69 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-15'}, {'name': 'photo_time', 'value': '7:58 am'}, {'name': 'image1', 'value': ['0216d403-84da-4501-993e-2545e172a4a3', '41c476b4-4f50-42b3-b56f-3778c23db22f']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 12.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8523638854481}, {'name': 'location_latitude', 'value': 40.6616160719359}, {'name': 'alternate-location-name', 'value': ''}]
+ 48%|████▊     | 48/100 [07:19<09:46, 11.27s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+70 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-15'}, {'name': 'photo_time', 'value': '8:13 am'}, {'name': 'image1', 'value': ['3af6cffc-90ee-4739-9d1b-35ed92355df7', 'f1459eef-94bc-4988-b744-92e8bab5a337']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 5.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.829335590745}, {'name': 'location_latitude', 'value': 40.6565302026484}, {'name': 'alternate-location-name', 'value': ''}]
+ 49%|████▉     | 49/100 [07:25<08:20,  9.81s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+71 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-15'}, {'name': 'photo_time', 'value': '8:40 pm'}, {'name': 'image1', 'value': ['a162061c-d56b-4855-80f8-2213e6be303d', '49317103-ba6d-4747-8e2f-003ceae7afa8']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8295490342197}, {'name': 'location_latitude', 'value': 40.6509853221146}, {'name': 'alternate-location-name', 'value': ''}]
+ 50%|█████     | 50/100 [07:36<08:30, 10.21s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+72 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-15'}, {'name': 'photo_time', 'value': '8:27 pm'}, {'name': 'image1', 'value': ['f1cf55da-6889-4385-9f94-0b67cf31a618']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Other']}, {'name': 'guessDepth', 'value': 8.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8301350147604}, {'name': 'location_latitude', 'value': 40.6533299808639}, {'name': 'alternate-location-name', 'value': ''}]
+ 51%|█████     | 51/100 [07:39<06:35,  8.06s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+73 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-15'}, {'name': 'photo_time', 'value': '8:04 pm'}, {'name': 'image1', 'value': ['3b6f502a-34ea-4d56-8353-d11a792dbc4f', 'b5ac47ab-f1fa-4ab9-8baa-8ca2ea566e6a']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 18.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8523638854481}, {'name': 'location_latitude', 'value': 40.6616160719359}, {'name': 'alternate-location-name', 'value': ''}]
+ 52%|█████▏    | 52/100 [07:50<06:59,  8.73s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+74 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-15'}, {'name': 'photo_time', 'value': '8:05 pm'}, {'name': 'image1', 'value': ['e9a0459d-78c4-48a7-b345-717705d3c62d', '3ab1aa5b-3334-418d-bf30-bba6c3f10cb8']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 18.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8523638854481}, {'name': 'location_latitude', 'value': 40.6616160719359}, {'name': 'alternate-location-name', 'value': ''}]
+ 53%|█████▎    | 53/100 [08:01<07:29,  9.56s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+75 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-11'}, {'name': 'photo_time', 'value': '10:49 pm'}, {'name': 'image1', 'value': ['3ca2b144-a292-42a0-9157-7ef9cedc2100']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks']}, {'name': 'guessDepth', 'value': 12.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8016063392762}, {'name': 'location_latitude', 'value': 40.8643780218487}, {'name': 'alternate-location-name', 'value': ''}]
+ 54%|█████▍    | 54/100 [08:08<06:38,  8.67s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+76 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-11'}, {'name': 'photo_time', 'value': '10:51 am'}, {'name': 'image1', 'value': ['72ca238a-a5de-4093-b9d9-3173cafd5d6e', '98010029-b1d1-43d6-aec9-5f16c3a234e4']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks']}, {'name': 'guessDepth', 'value': 6.0}, {'name': 'post_comment', 'value': 'Both from nearby water body and rain.'}, {'name': 'location_longitude', 'value': -73.8068063976901}, {'name': 'location_latitude', 'value': 40.862483147939}, {'name': 'alternate-location-name', 'value': ''}]
+ 55%|█████▌    | 55/100 [08:16<06:29,  8.65s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+77 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-11'}, {'name': 'photo_time', 'value': '10:56 pm'}, {'name': 'image1', 'value': ['a6fbcef2-0d33-464a-90b6-d298c56bb8cb', 'bc86f61c-2411-4a96-a2e6-8124e7702c63']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks']}, {'name': 'guessDepth', 'value': 8.0}, {'name': 'post_comment', 'value': "This location has rain as the primary cause but there's also a sinkhole that contributes to it.   Furthermore, across the street has poor sidewalks and no drainage.  \n\nThis issue has been reported to numerous city agencies but nothing is done. "}, {'name': 'location_longitude', 'value': -73.7889999029175}, {'name': 'location_latitude', 'value': 40.8534300238143}, {'name': 'alternate-location-name', 'value': ''}]
+ 56%|█████▌    | 56/100 [08:24<06:07,  8.36s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+78 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-11'}, {'name': 'photo_time', 'value': '10:59 pm'}, {'name': 'image1', 'value': ['7770e8d5-ee97-4872-a034-abf73ba46077']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks']}, {'name': 'guessDepth', 'value': 6.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7879522593172}, {'name': 'location_latitude', 'value': 40.8518924984315}, {'name': 'alternate-location-name', 'value': ''}]
+ 57%|█████▋    | 57/100 [08:28<05:06,  7.12s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+79 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-11'}, {'name': 'photo_time', 'value': '11:00 pm'}, {'name': 'image1', 'value': ['5933a36a-6472-4671-b11a-0cc0cdb62ac6']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks']}, {'name': 'guessDepth', 'value': 7.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7852514319987}, {'name': 'location_latitude', 'value': 40.8501040644848}, {'name': 'alternate-location-name', 'value': ''}]
+ 58%|█████▊    | 58/100 [08:33<04:35,  6.55s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+80 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-11'}, {'name': 'photo_time', 'value': '11:02 pm'}, {'name': 'image1', 'value': ['6a296395-f6ac-458e-90b0-93a5cc617e5d']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks']}, {'name': 'guessDepth', 'value': 4.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7871499330677}, {'name': 'location_latitude', 'value': 40.8490100367223}, {'name': 'alternate-location-name', 'value': ''}]
+ 59%|█████▉    | 59/100 [08:40<04:24,  6.46s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+81 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-11'}, {'name': 'photo_time', 'value': '11:03 pm'}, {'name': 'image1', 'value': ['a0a23232-481f-4f7b-936a-8a0415eb3a30']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks']}, {'name': 'guessDepth', 'value': 4.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7868305196925}, {'name': 'location_latitude', 'value': 40.8482325363653}, {'name': 'alternate-location-name', 'value': ''}]
+ 60%|██████    | 60/100 [08:45<04:06,  6.15s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+82 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-13'}, {'name': 'photo_time', 'value': '9:37 am'}, {'name': 'image1', 'value': ['7229e3f8-6913-495c-9f28-c1b712281d96']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 6.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7895421260625}, {'name': 'location_latitude', 'value': 40.8493103333324}, {'name': 'alternate-location-name', 'value': ''}]
+ 61%|██████    | 61/100 [08:49<03:35,  5.53s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+83 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-13'}, {'name': 'photo_time', 'value': '3:37 pm'}, {'name': 'image1', 'value': ['fca77c69-85e8-46b6-a1e2-b0b2b9f0b2cc', '3550c326-c5c6-4d90-badb-39a353e57d51']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks']}, {'name': 'guessDepth', 'value': 6.0}, {'name': 'post_comment', 'value': 'Similar to past complaints on this site. '}, {'name': 'location_longitude', 'value': -73.7889999029175}, {'name': 'location_latitude', 'value': 40.8534300238143}, {'name': 'alternate-location-name', 'value': ''}]
+ 62%|██████▏   | 62/100 [09:01<04:45,  7.52s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+84 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-13'}, {'name': 'photo_time', 'value': '3:48 pm'}, {'name': 'image1', 'value': ['22c8bdf7-6f6b-4e04-8db7-7627eee3347b']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Other']}, {'name': 'guessDepth', 'value': 10.0}, {'name': 'post_comment', 'value': 'Parkland.'}, {'name': 'location_longitude', 'value': -73.801679073241}, {'name': 'location_latitude', 'value': 40.8642999423852}, {'name': 'alternate-location-name', 'value': ''}]
+ 63%|██████▎   | 63/100 [09:06<04:05,  6.65s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+85 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-16'}, {'name': 'photo_time', 'value': '2:07 pm'}, {'name': 'image1', 'value': ['ee7f346a-337b-4a0f-a047-c1db48273ce5']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Other']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'Parkland bus stop'}, {'name': 'location_longitude', 'value': -73.8127362589081}, {'name': 'location_latitude', 'value': 40.864257370036}, {'name': 'alternate-location-name', 'value': ''}]
+ 64%|██████▍   | 64/100 [09:12<03:51,  6.42s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+86 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-16'}, {'name': 'photo_time', 'value': '10:32 pm'}, {'name': 'image1', 'value': ['fd982cdc-1606-4ed3-811c-c682ebd7a93c']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 6.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8015980700432}, {'name': 'location_latitude', 'value': 40.8642490375725}, {'name': 'alternate-location-name', 'value': ''}]
+ 65%|██████▌   | 65/100 [09:17<03:29,  5.99s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+87 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-17'}, {'name': 'photo_time', 'value': '10:47 pm'}, {'name': 'image1', 'value': ['020c8f88-0878-4ac3-addf-55f9b09955de']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks']}, {'name': 'guessDepth', 'value': 9.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8016179996273}, {'name': 'location_latitude', 'value': 40.8643956215822}, {'name': 'alternate-location-name', 'value': ''}]
+ 66%|██████▌   | 66/100 [09:23<03:27,  6.10s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+88 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-10-17'}, {'name': 'photo_time', 'value': '8:45 am'}, {'name': 'image1', 'value': ['8d98da8b-fd71-4954-b416-ac16fcf6e08d']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': '17th St. Hamilton Beach'}, {'name': 'location_longitude', 'value': -73.8283699999999}, {'name': 'location_latitude', 'value': 40.65216}, {'name': 'alternate-location-name', 'value': ''}]
+ 67%|██████▋   | 67/100 [09:26<02:52,  5.22s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+89 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2016-02-09'}, {'name': 'photo_time', 'value': '10:00 am'}, {'name': 'image1', 'value': ['cfe484fe-1f6c-44cf-a885-bcf4ac43a02a']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Parking lots', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'Beach Channel Drive & Beach 39th intersection Far Rockaway Queens, NY'}, {'name': 'location_longitude', 'value': -73.7714983694722}, {'name': 'location_latitude', 'value': 40.5958730971279}, {'name': 'alternate-location-name', 'value': ''}]
+ 68%|██████▊   | 68/100 [09:31<02:37,  4.91s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+90 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-20'}, {'name': 'photo_time', 'value': '8:41 am'}, {'name': 'image1', 'value': ['24ffa6cc-4170-4030-80f1-128e674fd62d']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Sidewalks']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -74.0010528973275}, {'name': 'location_latitude', 'value': 40.5770611332097}, {'name': 'alternate-location-name', 'value': ''}]
+ 69%|██████▉   | 69/100 [09:33<02:11,  4.23s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+91 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-24'}, {'name': 'photo_time', 'value': '11:18 am'}, {'name': 'image1', 'value': ['c2bdc0ce-8d5a-4736-9b41-aae6d17b249f', 'c0687a3b-5290-42bc-a667-bfa7c9ab4b3b']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': 8.0}, {'name': 'post_comment', 'value': 'Looks like accumulation from past two days rainfall. Area is low ground.'}, {'name': 'location_longitude', 'value': -73.8606668372505}, {'name': 'location_latitude', 'value': 40.6726094129944}, {'name': 'alternate-location-name', 'value': ''}]
+ 70%|███████   | 70/100 [09:46<03:26,  6.89s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+92 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-24'}, {'name': 'photo_time', 'value': '12:00 pm'}, {'name': 'image1', 'value': ['dc9fac37-6dfb-446d-92a3-029bc7ee041d']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': 7.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7640606396664}, {'name': 'location_latitude', 'value': 40.5928133829313}, {'name': 'alternate-location-name', 'value': ''}]
+ 71%|███████   | 71/100 [09:55<03:33,  7.37s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+93 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-24'}, {'name': 'photo_time', 'value': '12:18 pm'}, {'name': 'image1', 'value': ['64131c58-5ffc-4853-be6c-1c823120ba5b']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': 6.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7698592985251}, {'name': 'location_latitude', 'value': 40.5920742360848}, {'name': 'alternate-location-name', 'value': ''}]
+ 72%|███████▏  | 72/100 [10:02<03:28,  7.45s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+94 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-24'}, {'name': 'photo_time', 'value': '1:35 pm'}, {'name': 'image1', 'value': ['b232eee3-1212-46d5-877e-105ab6764fb7']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': 8.0}, {'name': 'post_comment', 'value': 'Rain water from 3 days ago.'}, {'name': 'location_longitude', 'value': -73.8523638854481}, {'name': 'location_latitude', 'value': 40.6616160719359}, {'name': 'alternate-location-name', 'value': ''}]
+ 73%|███████▎  | 73/100 [10:09<03:14,  7.20s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+95 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-30'}, {'name': 'photo_time', 'value': '10:53 am'}, {'name': 'image1', 'value': ['1b263eb5-0e1e-4d13-85ea-51b090cd1c67']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Lawns/vegetation']}, {'name': 'guessDepth', 'value': 6.0}, {'name': 'post_comment', 'value': 'This is an Urban Renewal Site that is fenced in and act as a catchment basin from heavy rain'}, {'name': 'location_longitude', 'value': -73.8523638854481}, {'name': 'location_latitude', 'value': 40.6616160719359}, {'name': 'alternate-location-name', 'value': ''}]
+ 74%|███████▍  | 74/100 [10:14<02:49,  6.52s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+96 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-30'}, {'name': 'photo_time', 'value': '12:08 pm'}, {'name': 'image1', 'value': ['9e80f4a1-b04e-4001-8142-c1f9016b857f', '57c2724d-406c-4226-a4b7-a3352cb3a5b2']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks']}, {'name': 'guessDepth', 'value': 10.0}, {'name': 'post_comment', 'value': 'Reoccurring flood '}, {'name': 'location_longitude', 'value': -73.8578834307652}, {'name': 'location_latitude', 'value': 40.6707967617126}, {'name': 'alternate-location-name', 'value': ''}]
+ 75%|███████▌  | 75/100 [10:23<02:59,  7.19s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+97 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-27'}, {'name': 'photo_time', 'value': '10:53 am'}, {'name': 'image1', 'value': ['4c9a588d-387d-4e49-93fb-3765aa089b44', '5be3574b-f211-426f-970e-27a4d1bc7117']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': 10.0}, {'name': 'post_comment', 'value': 'Flooding @ Beach 38th and Edgemere road.  Manhole cover submerged here.  Flooded often here.'}, {'name': 'location_longitude', 'value': -73.7702139624254}, {'name': 'location_latitude', 'value': 40.5939203106905}, {'name': 'alternate-location-name', 'value': ''}]
+ 76%|███████▌  | 76/100 [10:37<03:45,  9.39s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+98 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-09-18'}, {'name': 'photo_time', 'value': '10:30 am'}, {'name': 'image1', 'value': ['32799cb7-3aab-4dd9-b3ce-bdd281bff5db', '6fc8cb9e-21c0-4556-ad78-7e816e68aa0c']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'Hamilton/Howard Beach Russell Street'}, {'name': 'location_longitude', 'value': -73.8299198932154}, {'name': 'location_latitude', 'value': 40.6560000570752}, {'name': 'alternate-location-name', 'value': ''}]
+ 77%|███████▋  | 77/100 [10:41<02:54,  7.60s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+99 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-10-16'}, {'name': 'photo_time', 'value': '7:45 am'}, {'name': 'image1', 'value': ['68dc791b-43e4-4ea3-bd5b-698426f00372', '89556211-4a3f-4028-9b7b-60cf0bc8244a']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'Hamilton/Howard Beach'}, {'name': 'location_longitude', 'value': -73.8393336216735}, {'name': 'location_latitude', 'value': 40.6624550640587}, {'name': 'alternate-location-name', 'value': ''}]
+ 78%|███████▊  | 78/100 [10:44<02:18,  6.28s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+100 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-10-27'}, {'name': 'photo_time', 'value': '2:27 pm'}, {'name': 'image1', 'value': ['077a60a9-9d74-43a6-940f-aee0a07e4556']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8387805341589}, {'name': 'location_latitude', 'value': 40.662639108405}, {'name': 'alternate-location-name', 'value': ''}]
+ 79%|███████▉  | 79/100 [10:48<01:55,  5.51s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+101 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-10-19'}, {'name': 'photo_time', 'value': '10:11 am'}, {'name': 'image1', 'value': ['c77e81f1-c13f-40e3-b4f2-55030131b4be', 'ff012862-637a-4f8a-a15a-970d4d257568']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'Hamilton/Howard Beach'}, {'name': 'location_longitude', 'value': -73.8390172133883}, {'name': 'location_latitude', 'value': 40.6627391870928}, {'name': 'alternate-location-name', 'value': ''}]
+ 80%|████████  | 80/100 [10:53<01:51,  5.55s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+102 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-10-16'}, {'name': 'photo_time', 'value': '8:42 am'}, {'name': 'image1', 'value': ['68a32828-d524-43d7-a82a-870ee2228c23', 'a21183e3-f4da-43cb-822d-09c4a55e86fd']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': '158th Ave & 101 St Hamilton/Howard Beach'}, {'name': 'location_longitude', 'value': -73.8330226479552}, {'name': 'location_latitude', 'value': 40.6619071130224}, {'name': 'alternate-location-name', 'value': ''}]
+ 81%|████████  | 81/100 [10:58<01:39,  5.24s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+103 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-10-16'}, {'name': 'photo_time', 'value': '8:42 am'}, {'name': 'image1', 'value': ['afe11063-0cfb-458a-a715-eaa48eeddc93', '31bb13d5-654d-45f8-9043-c84beb538085']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': '164 Ave & 95 St Hamilton/Howard Beach'}, {'name': 'location_longitude', 'value': -73.8358414779146}, {'name': 'location_latitude', 'value': 40.6511490316124}, {'name': 'alternate-location-name', 'value': ''}]
+ 82%|████████▏ | 82/100 [11:09<02:07,  7.09s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+104 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-10-16'}, {'name': 'photo_time', 'value': '8:42 am'}, {'name': 'image1', 'value': ['994429ab-b1f8-4e22-9dbf-2a15e0a37c65', 'f0a68444-3f4c-4649-a5f7-c1c0b7a559a1']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': '161 Ave & 99 St Hamilton/Howard Beach'}, {'name': 'location_longitude', 'value': -73.8335055464807}, {'name': 'location_latitude', 'value': 40.6567232952602}, {'name': 'alternate-location-name', 'value': ''}]
+ 83%|████████▎ | 83/100 [11:16<01:57,  6.93s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+105 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-12-15'}, {'name': 'photo_time', 'value': '9:03 am'}, {'name': 'image1', 'value': ['c6449d26-09a3-4bb8-9227-e98ae1dddb86']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': 6.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8523638854481}, {'name': 'location_latitude', 'value': 40.6616160719359}, {'name': 'alternate-location-name', 'value': ''}]
+ 84%|████████▍ | 84/100 [11:23<01:50,  6.89s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+106 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-12-17'}, {'name': 'photo_time', 'value': '11:25 am'}, {'name': 'image1', 'value': ['895fdc14-3593-4dfc-b8a9-ce48e5b7b89f', '4950f5a1-be86-409c-8cb8-94ef2bc6ecb2']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 8.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.830083713724}, {'name': 'location_latitude', 'value': 40.6533026238049}, {'name': 'alternate-location-name', 'value': ''}]
+ 85%|████████▌ | 85/100 [11:33<01:59,  7.94s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+107 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-12-17'}, {'name': 'photo_time', 'value': '10:15 am'}, {'name': 'image1', 'value': ['e061b531-a974-4167-bca1-e88492441310', 'de638351-6ef7-484d-8efb-bd439b694c20']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Parking lots', 'Lawns/vegetation', 'Other']}, {'name': 'guessDepth', 'value': 18.0}, {'name': 'post_comment', 'value': 'Lots '}, {'name': 'location_longitude', 'value': -73.829391577468}, {'name': 'location_latitude', 'value': 40.6520679168778}, {'name': 'alternate-location-name', 'value': ''}]
+ 86%|████████▌ | 86/100 [11:44<02:05,  8.94s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+108 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-12-17'}, {'name': 'photo_time', 'value': '10:15 am'}, {'name': 'image1', 'value': ['8d6af3ed-023f-44d2-8618-54a67b18d494', 'e96aaa19-abc7-4aa7-bccc-0453bda68b9e']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 24.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8523638854481}, {'name': 'location_latitude', 'value': 40.6616160719359}, {'name': 'alternate-location-name', 'value': ''}]
+ 87%|████████▋ | 87/100 [11:55<02:04,  9.59s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+109 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-12-17'}, {'name': 'photo_time', 'value': '10:00 am'}, {'name': 'image1', 'value': ['1f3d5b8f-2e47-4c2b-b00c-840be6483aec', '434b1fd1-e4d0-4502-a9b9-bd0ae275d1d2']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 24.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8523638854481}, {'name': 'location_latitude', 'value': 40.6616160719359}, {'name': 'alternate-location-name', 'value': ''}]
+ 88%|████████▊ | 88/100 [12:07<02:02, 10.22s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+110 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-12-20'}, {'name': 'photo_time', 'value': '11:25 am'}, {'name': 'image1', 'value': ['d16d3a06-1697-45bc-a116-200841272a6c']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks']}, {'name': 'guessDepth', 'value': 10.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.9550025407913}, {'name': 'location_latitude', 'value': 40.7690914743534}, {'name': 'alternate-location-name', 'value': ''}]
+ 89%|████████▉ | 89/100 [12:13<01:37,  8.89s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+111 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2021-01-16'}, {'name': 'photo_time', 'value': '10:30 am'}, {'name': 'image1', 'value': ['e1848104-fe6a-4cf2-b1e5-d77fed9e24c7', 'a09f6815-7e06-4cf9-a5d0-31df2081546a']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 16.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8523638854481}, {'name': 'location_latitude', 'value': 40.6616160719359}, {'name': 'alternate-location-name', 'value': ''}]
+ 90%|█████████ | 90/100 [12:22<01:31,  9.11s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+112 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2021-01-16'}, {'name': 'photo_time', 'value': '10:30 am'}, {'name': 'image1', 'value': ['44f55f0f-5d4a-43ab-8fb2-1cfae6fccc1c', 'a9f674c2-68b7-4bd9-a136-7036b201434c']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 16.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8523638854481}, {'name': 'location_latitude', 'value': 40.6616160719359}, {'name': 'alternate-location-name', 'value': ''}]
+ 91%|█████████ | 91/100 [12:33<01:25,  9.50s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+113 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2021-01-16'}, {'name': 'photo_time', 'value': '2:02 pm'}, {'name': 'image1', 'value': ['98b0100a-1e2c-4cdb-a847-df0d651ce0ad', 'd081cd44-241b-480b-b01e-36ec1f70a626']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 4.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8106718}, {'name': 'location_latitude', 'value': 40.5896325}, {'name': 'alternate-location-name', 'value': ''}]
+ 92%|█████████▏| 92/100 [12:42<01:14,  9.35s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+114 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2021-01-16'}, {'name': 'photo_time', 'value': '2:04 pm'}, {'name': 'image1', 'value': ['72c9ec08-3a50-4058-9a2b-a1d18e2b537e']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': 2.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8110972}, {'name': 'location_latitude', 'value': 40.5895363}, {'name': 'alternate-location-name', 'value': ''}]
+ 93%|█████████▎| 93/100 [12:47<00:57,  8.16s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+115 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-10-13'}, {'name': 'photo_time', 'value': '9:28 pm'}, {'name': 'image1', 'value': ['dd3ca70d-eaba-408f-b220-44b30796d44d', '03fc1702-437b-4860-bf2f-118a0ccc9b73']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'John Doyle'}, {'name': 'location_longitude', 'value': -73.841840211944}, {'name': 'location_latitude', 'value': 40.6607782297139}, {'name': 'alternate-location-name', 'value': ''}]
+ 94%|█████████▍| 94/100 [12:54<00:46,  7.82s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+116 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-10-13'}, {'name': 'photo_time', 'value': '9:39 pm'}, {'name': 'image1', 'value': ['dd5e878a-0c26-47e6-9533-8ef33377ec41', '95b21bef-e073-4100-b46f-9abc20fd7da5']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'John Doyle'}, {'name': 'location_longitude', 'value': -73.846269906566}, {'name': 'location_latitude', 'value': 40.661843951903}, {'name': 'alternate-location-name', 'value': ''}]
+ 95%|█████████▌| 95/100 [12:59<00:35,  7.01s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+117 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-10-29'}, {'name': 'photo_time', 'value': '11:32 pm'}, {'name': 'image1', 'value': ['68d051ca-8eb3-4849-bdf6-622c57b81b72', '2810df9c-edff-4776-9e56-f42e417a2958']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'John Doyle'}, {'name': 'location_longitude', 'value': -73.8409838259809}, {'name': 'location_latitude', 'value': 40.6608998285055}, {'name': 'alternate-location-name', 'value': ''}]
+ 96%|█████████▌| 96/100 [13:08<00:29,  7.35s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+118 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-10-29'}, {'name': 'photo_time', 'value': '3:18 pm'}, {'name': 'image1', 'value': ['f3b0f624-dc3c-4a82-9f05-d93d2459185b']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets']}, {'name': 'guessDepth', 'value': ''}, {'name': 'post_comment', 'value': 'John Doyle'}, {'name': 'location_longitude', 'value': -73.8432229171251}, {'name': 'location_latitude', 'value': 40.6622183244444}, {'name': 'alternate-location-name', 'value': ''}]
+ 97%|█████████▋| 97/100 [13:13<00:20,  6.89s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+119 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2020-11-01'}, {'name': 'photo_time', 'value': '9:03 pm'}, {'name': 'image1', 'value': ['11135029-e495-4620-8ae9-98a4be92c7f4', 'f3a2ccf4-8f3c-42ea-b4d5-d3bc86c37900']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Sidewalks', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 5.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.7895207314764}, {'name': 'location_latitude', 'value': 40.8480338230586}, {'name': 'alternate-location-name', 'value': ''}]
+ 98%|█████████▊| 98/100 [13:20<00:13,  6.91s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+120 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2021-02-02'}, {'name': 'photo_time', 'value': '11:30 am'}, {'name': 'image1', 'value': ['51597f06-0a15-40d2-9070-ab188339c040']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 6.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8124209522103}, {'name': 'location_latitude', 'value': 40.5903004778686}, {'name': 'alternate-location-name', 'value': ''}]
+ 99%|█████████▉| 99/100 [13:25<00:06,  6.25s/it]
+Form submission response: {"status":"OK","result":""}
+Image upload response: {"status":"OK","result":""}
+121 -Form details: [{'name': '_gform-form-id', 'value': 92}, {'name': 'from_device', 'value': 'Lingyu import-0531'}, {'name': 'photo_date', 'value': '2021-02-01'}, {'name': 'photo_time', 'value': '11:58 pm'}, {'name': 'image1', 'value': ['612ec9fb-28c6-4d95-b244-04580e47af9d']}, {'name': 'guessCause', 'value': ''}, {'name': 'whatFlooded', 'value': ['Roads/streets', 'Lawns/vegetation']}, {'name': 'guessDepth', 'value': 8.0}, {'name': 'post_comment', 'value': ''}, {'name': 'location_longitude', 'value': -73.8124551428745}, {'name': 'location_latitude', 'value': 40.5902581195461}, {'name': 'alternate-location-name', 'value': ''}]
+100%|██████████| 100/100 [13:30<00:00,  8.10s/it]
+Form submission response: {"status":"OK","result":""}
