@@ -6,3 +6,6 @@
 ## `.+\.txt`:
 Outouts of the form output from `upload.ipynb`. File names are semantic.
 - `form_output.txt` is the final output (total 724, concatenated)
+
+## `test.cs`:
+A test on C# env, you may ignore it.

@@ -9,3 +9,5 @@ Csharp files originally written by [Chris](https://github.com/pugwonk), minor ch
 - `is.ipynb`: code from previous week for convenience, minor or no changes compared with [../w3/image_scraping.ipynb](../w3/image_scraping.ipynb)
 - `w4.ipynb`: data cleaning and data processing of this week
 - `upload.ipynb`: first draft of uploading process, but with errors, see the [improved one](../w-1/w-1.ipynb)
+## `test.cs`:
+A test on C# env, you may ignore it.
